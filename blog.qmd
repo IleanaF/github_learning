@@ -24,3 +24,4 @@ I want to see if this works!
 <!-- ::: column-screen -->
 <!-- ![](images/banner_imgs/horst_openscapes_desert_breadcrumbs.png) -->
 <!-- ::: -->
+make a visible edit for the clinc
